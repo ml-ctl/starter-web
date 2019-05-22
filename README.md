@@ -17,3 +17,6 @@ For delpoyment...
 ## How To Contribute
 
 Explain how to contribute...
+
+### Copyright
+2019 Git.Training
